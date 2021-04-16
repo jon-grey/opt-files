@@ -20,7 +20,30 @@ sudo -i
 . /opt/.root_profile
 ```
 
-# What is does?
+# How does it work?
+
+## As normal user
+Its sourcing files in `/opt/.profile*` and `/opt/.bashrc*`
+
+![image](https://user-images.githubusercontent.com/70474131/115073821-25040d80-9ef9-11eb-8da9-611d3eff6f02.png)
+
+## sudo su
+
+![image](https://user-images.githubusercontent.com/70474131/115073859-32b99300-9ef9-11eb-9b52-5a080d07050b.png)
+
+
+## sudo -i
+
+![image](https://user-images.githubusercontent.com/70474131/115073886-3ea55500-9ef9-11eb-917a-2114b4abb64b.png)
+
+![image](https://user-images.githubusercontent.com/70474131/115073924-46fd9000-9ef9-11eb-9036-22c761b69f46.png)
+
+> here some update
+ 
+![image](https://user-images.githubusercontent.com/70474131/115073953-5250bb80-9ef9-11eb-8d38-c5cd8f70fce6.png)
+
+
+# What it does?
 
 ## Aliases
 
