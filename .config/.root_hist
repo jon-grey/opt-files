@@ -1,0 +1,142 @@
+sizeof(double);
+sizeof(double)
+#include <vector>
+std::vector<int>(10);
+a = std::vector<int>(10,0);
+a
+{}|#include <iostream>     // std::cout
+#include <algorithm>    // std::generate
+#include <vector>       // std::vector
+#include <iterator>
+#include <iostream>     // std::cout
+#include <algorithm>    // std::generate
+#include <vector>       // std::vector
+#include <iterator>
+// function generator:
+struct one_more { 
+  int _count;
+  one_more() : _count(0) {}
+  int operator()() {
+      return _count++;
+  }
+std::vector<int> myvector (100)
+myvector
+int n=0;
+std::vector<int> V (100)
+std::iota(V.cbegin(), V.cend(), n)
+std::iota(V.begin(), V.end(), n)
+V
+int N = 5
+int M = 4
+int mB = 3
+std::vector<int> W(M*N);
+std::vector<int> V(N*mB);
+#undef V
+std::vector<int> V(N*mB);
+del V
+del V;
+delete V
+~V
+help
+clear
+--help
+std::vector<int> v(N*mB);
+std::vector<int> b(M*mB);
+for( int k=0; k<mB; ++k){
+ for(int i=0; i<M; ++i) {
+    for (int j=0; j<N; ++j) {
+    }
+int sum = 0;
+    for (int j=0; j<N; ++j) {
+    sum += W[N*i + j] * v[mB*j + k];
+}
+b[mB*i + k] = sum;
+}
+.@
+b
+W
+v
+b
+int n=0;
+n=0
+std::iota(W.begin(), W.end(), n)
+n=0
+std::iota(v.begin(), v.end(), n)
+W
+v
+b
+auto first = std::begin(W);
+auto incr = std::distance(std::begin(v), std::end(v));
+first
+incr
+b[0] = std::inner_product(std::begin(v), std::end(v), first, 0);
+b
+auto incr = std::distance(std::begin(v), std::begin(v)+N);
+incr = std::distance(std::begin(v), std::begin(v)+N);
+b[0] = std::inner_product(std::begin(v), std::end(v), first, 0);
+b
+sizeof(short)
+sizeof(char)
+float arr [(int)1e6] = {0}
+float arr [(int)1e6] = {0};
+sizeof(arr)
+sizeof(arr)/1024
+sizeof(arr)/(1024*1024)
+float arr1e7 [(int)1e7] = {0};
+sizeof(arr1e7)/(1024*1024)
+float arr1e8 [(int)1e8] = {0};
+sizeof(arr1e7)/(1024*1024) * sizeof(float)
+float arr1e9 [(int)1e9] = {0};
+sizeof(arr1e8)/(1024*1024) * sizeof(float)
+sizeof(arr1e9)/(1024*1024) * sizeof(float)
+char* BytesToSize( float Bytes )        {
+             float tb = 1099511627776;
+             float gb = 1073741824;
+             float mb = 1048576;
+             float kb = 1024;
+             char returnSize[256];
+             if( Bytes >= tb )
+                 sprintf(returnSize, "%.2f TB", (float)Bytes/tb);        
+             else if( Bytes >= gb && Bytes < tb )
+                 sprintf(returnSize, "%.2f GB", (float)Bytes/gb);
+             else if( Bytes >= mb && Bytes < gb )
+                 sprintf(returnSize, "%.2f MB", (float)Bytes/mb);   
+             else if( Bytes >= kb && Bytes < mb )
+                 sprintf(returnSize, "%.2f KB", (float)Bytes/kb);
+             else if ( Bytes < kb)
+                 sprintf(returnSize, "%.2f Bytes", Bytes);
+             else
+                 sprintf(returnSize, "%.2f Bytes", Bytes);
+             return returnSize;
+q
+exit
+.@
+char* BytesToSize( float Bytes )        {
+             float tb = 1099511627776;
+             float gb = 1073741824;
+             float mb = 1048576;
+             float kb = 1024;
+             char returnSize[256];
+             if( Bytes >= tb )
+                 sprintf(returnSize, "%.2f TB", (float)Bytes/tb);        
+             else if( Bytes >= gb && Bytes < tb )
+                 sprintf(returnSize, "%.2f GB", (float)Bytes/gb);
+             else if( Bytes >= mb && Bytes < gb )
+                 sprintf(returnSize, "%.2f MB", (float)Bytes/mb);   
+             else if( Bytes >= kb && Bytes < mb )
+                 sprintf(returnSize, "%.2f KB", (float)Bytes/kb);
+             else if ( Bytes < kb)
+                 sprintf(returnSize, "%.2f Bytes", Bytes);
+             else
+                 sprintf(returnSize, "%.2f Bytes", Bytes);
+             return returnSize;
+         }
+BytesToSize(100)
+sizeof(arr1e8)/(1024*1024)
+exit
+exit()
+sizeof(float)
+NULL
+cd "/opt/W/W.priv/Blogs/onceawaken.com/content/courses/programming/c++/codility/009_leader/" && g++ -std=c++14 equi_leader.cpp -o equi_leader.o && ./equi_leader.o
+cd "/opt/W/W.priv/Blogs/onceawaken.com/content/courses/programming/c++/codility/009_leader/" && g++ -std=c++14 equi_leader.cpp -o equi_leader.o && ./equi_leader.o
+cd "/opt/W/W.priv/Blogs/onceawaken.com/content/courses/programming/c++/codility/009_leader/" && g++ -std=c++14 equi_leader.cpp -o equi_leader.o && ./equi_leader.o

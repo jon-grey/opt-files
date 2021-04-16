@@ -1,0 +1,3 @@
+pane	1	0	:make	1	:*	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken	1	make	:make serve
+window	1	0	1	:*	c2e1,237x64,0,0,4
+state	1	

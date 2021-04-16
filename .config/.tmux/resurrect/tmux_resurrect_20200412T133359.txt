@@ -1,0 +1,6 @@
+pane	0	0	:node	1	:*MZ	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/nativescript	1	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	0	:node	1	:*MZ	1	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/nativescript	0	bash	:
+pane	0	0	:node	1	:*MZ	2	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/django	0	python	:python manage.py runserver
+pane	0	0	:node	1	:*MZ	3	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+window	0	0	1	:*MZ	c3ee,118x14,0,0[118x5,0,0{60x5,0,0,1,57x5,61,0,11},118x9,0,6{60x9,0,6,2,57x9,61,6,13}]
+state	0	

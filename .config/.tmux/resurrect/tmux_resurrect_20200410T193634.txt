@@ -1,0 +1,6 @@
+pane	0	0	:bash	0	:-	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/nativescript-tutorial/hello-world	0	node	:node /usr/local/bin/tns run android
+pane	0	0	:bash	0	:-	1	:/opt/Android/Sdk/emulator	1	bash	:
+pane	0	1	:[tmux]	1	:*	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+window	0	0	0	:-	9869,237x64,0,0[237x13,0,0,0,237x50,0,14,2]
+window	0	1	1	:*	c2e6,237x64,0,0,9
+state	0	

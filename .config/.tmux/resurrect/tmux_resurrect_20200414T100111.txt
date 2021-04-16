@@ -1,0 +1,5 @@
+pane	0	0	:qemu-system-x86_64	1	:*	0	:/home/rgr/W/W.priv/Web/Grupowicze	0	bash	:
+pane	0	0	:qemu-system-x86_64	1	:*	1	:/home/rgr/W/W.priv/Web/Grupowicze	0	bash	:
+pane	0	0	:qemu-system-x86_64	1	:*	2	:/home/rgr/W/W.priv/Web/Grupowicze	1	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+window	0	0	1	:*	ef53,97x51,0,0[97x25,0,0,0,97x25,0,26{49x25,0,26,1,47x25,50,26,2}]
+state	0	

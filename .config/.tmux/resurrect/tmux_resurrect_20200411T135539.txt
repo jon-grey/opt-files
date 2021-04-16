@@ -1,0 +1,5 @@
+pane	0	0	:node	1	:*Z	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	0	bash	:
+pane	0	0	:node	1	:*Z	1	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/nativescript	1	node	:node /usr/local/bin/tns run android
+pane	0	0	:node	1	:*Z	2	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/django	0	python	:python manage.py runserver
+window	0	0	1	:*Z	34ca,237x64,0,0[237x31,0,0,0,237x32,0,32{118x32,0,32,1,118x32,119,32,2}]
+state	0	

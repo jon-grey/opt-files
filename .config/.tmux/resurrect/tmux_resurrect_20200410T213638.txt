@@ -1,0 +1,14 @@
+pane	0	0	:bash	0	:	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/nativescript-tutorial/hello-world	0	node	:node /usr/local/bin/tns run android
+pane	0	0	:bash	0	:	1	:/opt/Android/Sdk/emulator	1	bash	:
+pane	0	1	:bash	0	:	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+pane	0	2	:bash	0	:	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+pane	0	3	:bash	0	:	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+pane	0	4	:bash	0	:-	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+pane	0	5	:sudo	1	:*	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	sudo	:sudo vim /opt/.bashrc
+window	0	0	0	:	9869,237x64,0,0[237x13,0,0,0,237x50,0,14,2]
+window	0	1	0	:	e1a5,237x64,0,0,26
+window	0	2	0	:	e1a7,237x64,0,0,28
+window	0	3	0	:	dd58,117x62,0,0,29
+window	0	4	0	:-	5d50,117x62,0,0,30
+window	0	5	1	:*	5d51,117x62,0,0,31
+state	0	

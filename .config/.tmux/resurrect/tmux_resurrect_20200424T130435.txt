@@ -1,0 +1,13 @@
+pane	0	0	:bash	0	:Z	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript/src/app	0	bash	:
+pane	0	0	:bash	0	:Z	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript	1	bash	:
+pane	0	0	:bash	0	:Z	2	:/home/rgr/W/W.priv/Web/Grupowicze/src/django	0	python	:python manage.py runserver
+pane	0	1	:qemu-system-x86_64	0	:-	0	:/home/rgr/W/W.priv/Web/Grupowicze	1	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_29 -netdelay none -netspeed full
+pane	0	2	:node	1	:*M	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/soul-park	1	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	3	:bash	0	:	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/soul-park	1	bash	:
+pane	0	4	:bash	0	:	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/django	1	bash	:
+window	0	0	0	:Z	adf7,117x51,0,0[117x25,0,0{58x25,0,0,2,58x25,59,0,7},117x25,0,26,0]
+window	0	1	0	:-	b43e,117x51,0,0,1
+window	0	2	1	:*M	b480,127x51,0,0,3
+window	0	3	0	:	b441,117x51,0,0,4
+window	0	4	0	:	b443,117x51,0,0,6
+state	0	

@@ -1,0 +1,18 @@
+#!/bin/bash +e
+
+
+echo "[INFO] Executing FILE ${BASH_SOURCE[0]} BEGIN"
+
+if [ -d /opt/.root_bashrc.d ]; then
+
+	for p in /opt/.root_bashrc.d/*.sh; do
+		if [ -r $p ]; then
+			echo $p
+			. $p || true
+		fi
+	done
+	unset p
+fi
+
+echo "[INFO] Executing FILE ${BASH_SOURCE[0]} END"
+

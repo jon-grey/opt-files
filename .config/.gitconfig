@@ -1,0 +1,23 @@
+[user]
+	name = Robert Grzelka
+	email = onceawaken@outlook.com
+[core]
+	fileMode = false
+	pager = less -FRXiMq
+	autocrlf = false
+	editor = vim
+[color]
+	ui = auto
+[alias]
+	tree = log --decorate --oneline --graph --all --topo-order -30
+	treef = log --decorate --oneline --graph --all --topo-order
+	st = status
+	rank = shortlog -sn --no-merges
+[http]
+[socks]
+	proxy = localhost:12345
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

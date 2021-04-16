@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/nativescript-tutorial/hello-world	0	bash	:
+pane	0	0	:bash	1	:*	1	:/opt/Android/Sdk/emulator	1	bash	:
+window	0	0	1	:*	c510,117x22,0,0[117x10,0,0,47,117x11,0,11,39]
+state	0	

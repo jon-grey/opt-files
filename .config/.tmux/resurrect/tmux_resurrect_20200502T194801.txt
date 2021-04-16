@@ -1,0 +1,6 @@
+pane	0	0	:bash	0	:-	0	:/home/rgr/W/W.priv/Web/Grupowicze	1	qemu-system-i386	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-i386 -avd Pixel_2_API_26 -netdelay none -netspeed full
+pane	0	1	:[tmux]	1	:*Z	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular-scss	1	node	:node /opt/nvm/versions/node/v13.12.0/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	1	:[tmux]	1	:*Z	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular-scss/src/app/modules/main	0	bash	:
+window	0	0	0	:-	b01e,97x51,0,0,1
+window	0	1	1	:*Z	be0e,97x51,0,0[97x25,0,0,2,97x25,0,26,6]
+state	0	

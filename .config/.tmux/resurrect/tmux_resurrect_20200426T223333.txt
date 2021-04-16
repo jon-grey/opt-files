@@ -1,0 +1,9 @@
+pane	0	0	:bash	0	:#-	0	:/home/rgr/W/W.priv/Web/Grupowicze	1	bash	:
+pane	0	1	:bash	1	:*	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular	1	bash	:
+pane	1	0	:qemu-system-x86_64	0	:-	0	:/home/rgr/W/W.priv/Examples/nativescript-angular-sass-sphere	1	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_29 -netdelay none -netspeed full
+pane	1	1	:node	1	:*	0	:/home/rgr/W/W.priv/Examples/nativescript-angular-sass-sphere/src/app/modules/particles/components	1	node	:node /opt/nvm/versions/node/v13.12.0/bin/tns plugin add tns-platform-declarations
+window	0	0	0	:#-	b01e,97x51,0,0,1
+window	0	1	1	:*	b01f,97x51,0,0,2
+window	1	0	0	:-	b020,97x51,0,0,3
+window	1	1	1	:*	b021,97x51,0,0,4
+state	1	

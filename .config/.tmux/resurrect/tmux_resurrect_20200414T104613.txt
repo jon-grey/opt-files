@@ -1,0 +1,5 @@
+pane	0	0	:node	1	:*Z	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript	0	bash	:
+pane	0	0	:node	1	:*Z	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript	1	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot
+pane	0	0	:node	1	:*Z	2	:/home/rgr/W/W.priv/Web/Grupowicze	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+window	0	0	1	:*Z	6135,124x51,0,0[124x25,0,0,0,124x25,0,26{63x25,0,26,1,60x25,64,26,2}]
+state	0	

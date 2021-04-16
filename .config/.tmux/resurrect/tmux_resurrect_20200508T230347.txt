@@ -1,0 +1,9 @@
+pane	0	0	:bash	0	:#-	0	:/home/rgr/W/W.priv/Web/Grupowicze	1	qemu-system-i386	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-i386 -avd Galaxy_Nexus_API_21 -netdelay none -netspeed full
+pane	0	0	:bash	0	:#-	1	:/home/rgr/W/W.priv/Web/Grupowicze	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_29 -netdelay none -netspeed full
+pane	0	0	:bash	0	:#-	2	:/home/rgr/W/W.priv/Web/Grupowicze	0	bash	:
+pane	0	1	:node	1	:*	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular-scss	0	node	:node /opt/nvm/versions/node/v13.12.0/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	1	:node	1	:*	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular-scss	1	node	:node /opt/nvm/versions/node/v13.12.0/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	1	:node	1	:*	2	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript-angular-scss	0	bash	:
+window	0	0	0	:#-	4772,97x51,0,0[97x25,0,0,1,97x12,0,26,9,97x12,0,39,10]
+window	0	1	1	:*	7e64,117x62,0,0[117x20,0,0,2,117x20,0,21,11,117x20,0,42,6]
+state	0	

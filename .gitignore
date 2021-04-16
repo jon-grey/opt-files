@@ -1,0 +1,64 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.profile
+!.profile.d
+!.profile.d/*
+!.root_bashrc
+!.root_bashrc.d
+!.root_bashrc.d/*
+!.root_profile
+!.root_profile.d
+!.root_profile.d/*
+!.bashrc
+!.bashrc.bare
+!.bashrc.bashit
+!.bashrc.d
+!.bashrc.d/*
+!.completion
+!.completion/*
+!.config
+!.config/*
+!.config/*/*
+!.config/*/*/*
+!.config/*/*/*/*
+!.config/*/*/*/*/*
+!.SpaceVim.d
+!.SpaceVim.d/*
+!.install
+!.install/*
+
+# and not submodules
+!.SpaceVim
+!.bash_it
+!nvm
+!gitk
+!git-status-tree
+!fzf
+!pyenv
+!screenkey
+!install/Bash-Snippets
+
+# and not stuff...
+!Bash-Snippets
+!bin
+!dpkg
+!oracle
+!oracle/*
+!oracle/*/*
+!oracle/*/*/*
+!oracle/*/*/*/*
+!oracle/*/*/*/*/*
+!oracle/*/*/*/*/*/*
+!oracle/*/*/*/*/*/*/*
+!oracle/*/*/*/*/*/*/*/*
+!install
+!install/*
+
+
+# ignore
+certs
+.certs
+.secrets

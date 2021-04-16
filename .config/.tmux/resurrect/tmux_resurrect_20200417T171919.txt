@@ -1,0 +1,8 @@
+pane	0	0	:node	1	:*	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript/src/app/modules	1	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot --env.snapshot --bundle
+pane	0	0	:node	1	:*	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/django	0	python	:python manage.py runserver
+pane	0	0	:node	1	:*	2	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript	0	bash	:
+pane	0	0	:node	1	:*	3	:/home/rgr/W/W.priv/Web/Grupowicze	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+pane	1	0	:make	1	:*	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken	1	make	:make serve
+window	0	0	1	:*	53e2,119x51,0,0[119x25,0,0{64x25,0,0,0,54x25,65,0,3},119x25,0,26{65x25,0,26,1,53x25,66,26,2}]
+window	1	0	1	:*	ae61,80x23,0,0,4
+state	0	

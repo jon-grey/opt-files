@@ -1,0 +1,6 @@
+pane	0	0	:node	1	:*	0	:/home/rgr/W/W.priv/Web/Grupowicze/src/nativescript	1	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot --env.snapshot
+pane	0	0	:node	1	:*	1	:/home/rgr/W/W.priv/Web/Grupowicze/src/django	0	python	:python manage.py runserver
+pane	0	1	:qemu-system-x86_64	0	:#-	0	:/home/rgr/W/W.priv/Web/Grupowicze	1	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_29 -netdelay none -netspeed full
+window	0	0	1	:*	be0b,97x51,0,0[97x25,0,0,2,97x25,0,26,0]
+window	0	1	0	:#-	b01e,97x51,0,0,1
+state	0	

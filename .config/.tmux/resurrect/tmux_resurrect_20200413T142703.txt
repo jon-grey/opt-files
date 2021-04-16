@@ -1,0 +1,6 @@
+pane	0	0	:bash	1	:*	0	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater/src/django	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater	1	bash	:
+pane	0	0	:bash	1	:*	2	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater/src/angular	0	ng	:ng serve
+pane	0	0	:bash	1	:*	3	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+window	0	0	1	:*	f327,197x53,0,0[197x26,0,0{98x26,0,0,0,98x26,99,0,3},197x26,0,27{98x26,0,27,1,98x26,99,27,2}]
+state	0	

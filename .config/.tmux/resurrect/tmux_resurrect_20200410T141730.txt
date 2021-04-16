@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*Z	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/nativescript-tutorial/hello-world	0	node	:node /usr/local/bin/tns run android
+pane	0	0	:bash	1	:*Z	1	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	1	bash	:
+window	0	0	1	:*Z	b183,170x39,0,0[170x19,0,0,0,170x19,0,20,1]
+state	0	

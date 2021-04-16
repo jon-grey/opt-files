@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*Z	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/nativescript	1	bash	:
+pane	0	0	:bash	1	:*Z	1	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src/django	0	python	:python manage.py runserver
+window	0	0	1	:*Z	8c25,117x7,0,0{58x7,0,0,1,58x7,59,0,2}
+state	0	

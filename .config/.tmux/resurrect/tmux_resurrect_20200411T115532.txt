@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*Z	0	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5X_API_29 -netdelay none -netspeed full
+pane	0	0	:bash	1	:*Z	1	:/home/rgr/W/W.priv/Blogs/HugoBlog/onceawaken/content/notebook/en/study/online/fullstack/udemy/full_stack_dev_web_mobile_backend_api_angular_django/github/MovieRater/src	1	bash	:
+window	0	0	1	:*Z	6d9d,117x18,0,0[117x6,0,0,0,117x11,0,7,1]
+state	0	

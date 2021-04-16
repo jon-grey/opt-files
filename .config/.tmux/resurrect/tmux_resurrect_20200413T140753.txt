@@ -1,0 +1,5 @@
+pane	0	0	:bash	1	:*M	0	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater/src/nativescript	0	node	:node /usr/local/bin/tns debug android --env.uglify --env.aot
+pane	0	0	:bash	1	:*M	1	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples/MovieRater/src/nativescript	1	bash	:
+pane	0	0	:bash	1	:*M	2	:/home/rgr/W/W.priv/Web/Examples/Fullstack_Angular_Django_Nativescript_Heroko_Examples	0	qemu-system-x86_64	:/opt/Android/Sdk/emulator/qemu/linux-x86_64/qemu-system-x86_64 -avd Nexus_5_API_28 -netdelay none -netspeed full
+window	0	0	1	:*M	6deb,97x51,0,0[97x26,0,0{50x26,0,0,1,46x26,51,0,11},97x25,0,27,13]
+state	0	
