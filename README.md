@@ -15,7 +15,7 @@ And then?
 
 Then one day this baby was born! Awesome...
 
-Each time I do something repetable, I'm also putting it as script in dirs such as `.bashrc.d`, `.profile.d`, `.root_bashrc.d`, or `.root_profile.d.`. 
+From this day, each time I do something repetable, I'm also putting it as script in dirs such as `.bashrc.d`, `.profile.d`, `.root_bashrc.d`, or `.root_profile.d.`. 
 
 So that next time I open my terminal, some script `/opt/{.bashrc.d,.profile.d}/dd_something.sh` will source some stuff for me.
 
