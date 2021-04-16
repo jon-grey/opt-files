@@ -56,9 +56,10 @@
 !oracle/*/*/*/*/*/*/*/*
 !install
 !install/*
-
+!README.md
 
 # ignore
 certs
 .certs
 .secrets
+tmux_resurrect_*.txt
