@@ -5,8 +5,13 @@ What I really care in here is aliases, terminal look, auto updates, config and i
 
 # Why I did it?
 
-Each time I was doing something repetable, I have also put it in .root_profile.d 
-So that next time, some script dd__something.sh will do it for me.
+Each time I was doing something repetable, I have also put it in .root_profile.d.
+
+And then?
+
+Next time I login, some script `/opt/.*/dd_something.sh` will do it for me.
+
+Next time I login as root, some script `/opt/.root*/dd_something_elsevhere.sh` will also install stuff for me.
 
 # How to set it up
 
