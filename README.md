@@ -3,6 +3,10 @@
 
 What I really care in here is aliases, terminal look, auto updates, config and installation of some soft.
 
+## Todo
+
+[ ] - Oneday add submodules. 
+
 # Why I did it?
 
 Each time I was doing something repetable, I have also put it in .root_profile.d.
