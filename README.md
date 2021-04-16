@@ -23,15 +23,17 @@ Next time I login as root, some script `/opt/{.root_bashrc.d,.root_profile.d}/dd
 
 # How to set it up
 
-To make it auto install/update, please clone files from 
-https://github.com/jon-grey/opt-files-root to /root
-
-After unpacking those files to /opt (ie. /opt/.root_profile.d) simply do
+After unpacking content of this repo to /opt, so we will have ie. `/opt/.root_profile.d`, we can simply do
 
 ```sh
 sudo -i
 . /opt/.root_profile
 ```
+
+To make it auto install/update, please clone files from 
+https://github.com/jon-grey/opt-files-root to /root
+
+
 
 # How does it work?
 
