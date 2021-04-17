@@ -144,7 +144,6 @@ alias grsuo='git remote set-url origin'
 alias gcgrou='git config --get remote.origin.url'
 alias gcl='git config -l'
 
-alias ag='alias | grep git'
 
 echo_src_safe /opt/.completion/.git-completion.bash
 
